@@ -1,18 +1,4 @@
 {
   "schemaVersion": 1,
-  "announcements": [
-    {
-      "id": "test-salam-20261014",
-      "revision": 1,
-      "kind": "news",
-      "title": {
-        "ar": "تنبيه تجريبي"
-      },
-      "body": {
-        "ar": "السلام عليكم"
-      },
-      "startsAt": "2026-10-14T04:29:11.000Z",
-      "expiresAt": null
-    }
-  ]
+  "announcements": []
 }
