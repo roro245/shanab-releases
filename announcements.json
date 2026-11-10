@@ -1,4 +1,20 @@
 {
   "schemaVersion": 1,
-  "announcements": []
+  "announcements": [
+    {
+      "id": "release-3.1.7-20261110",
+      "revision": 1,
+      "kind": "update",
+      "title": {
+        "ar": "تحديث شنب 3.1.7: إصلاحات 4K وإضافة HandBrake",
+        "en": "SHANAB 3.1.7: 4K fixes and HandBrake"
+      },
+      "body": {
+        "ar": "التحديث الجديد متاح الآن من داخل الأداة.\n\n• إصلاح توافق مقاطع 4K والملفات المضغوطة مع الاستوديو الذكي.\n• معالجة أسرع للمقاطع المتوافقة بتجنب إعادة ترميز الصورة عندما لا تحتاجها؛ تختلف السرعة حسب المقطع والجهاز والخيارات.\n• قسم HandBrake مستقل لتقليل حجم الفيديو، يعرض الحجم قبل وبعد، والمساحة الموفّرة، ومؤشر جودة تقديري للمقارنة. مقدار تقليل الحجم يعتمد على المصدر.\n• خيارات SHANAB AI والتحويل إلى 60 FPS داخل الاستوديو الذكي.\n• تحسين اختيار الملفات والإلغاء وتنظيف الملفات المؤقتة، وإظهار دقة المصدر وفريماته.\n\nافتح زر التحديثات أعلى التطبيق لتنزيل النسخة. وبعد انتهاء التنزيل، احفظ عملك واختر إعادة التشغيل والتثبيت.",
+        "en": "The new update is now available inside the app.\n\n• Fixed 4K and compressed-file compatibility in Smart Studio.\n• Faster processing for compatible clips by avoiding unnecessary picture re-encoding. Speed depends on the clip, device and selected options.\n• A separate HandBrake section for reducing video size, with before/after sizes, space saved and estimated quality scores for comparison. Size reduction depends on the source.\n• SHANAB AI and 60 FPS conversion options in Smart Studio.\n• Improved file selection, cancellation and temporary-file cleanup, with source resolution and frame rate displayed.\n\nOpen the updates button at the top of the app to download the new version. Once downloaded, save your work and choose Restart and install."
+      },
+      "startsAt": "2026-11-10T18:16:35.000Z",
+      "expiresAt": null
+    }
+  ]
 }
