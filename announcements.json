@@ -2,18 +2,18 @@
   "schemaVersion": 1,
   "announcements": [
     {
-      "id": "release-3.1.7-20261110",
+      "id": "release-3.1.8-20261111",
       "revision": 1,
       "kind": "update",
       "title": {
-        "ar": "تحديث شنب 3.1.7: إصلاحات 4K وإضافة HandBrake",
-        "en": "SHANAB 3.1.7: 4K fixes and HandBrake"
+        "ar": "تحديث شنب 3.1.8: إصلاح AI وتحسين HandBrake",
+        "en": "SHANAB 3.1.8: AI fixes and HandBrake improvements"
       },
       "body": {
-        "ar": "التحديث الجديد متاح الآن من داخل الأداة.\n\n• إصلاح توافق مقاطع 4K والملفات المضغوطة مع الاستوديو الذكي.\n• معالجة أسرع للمقاطع المتوافقة بتجنب إعادة ترميز الصورة عندما لا تحتاجها؛ تختلف السرعة حسب المقطع والجهاز والخيارات.\n• قسم HandBrake مستقل لتقليل حجم الفيديو، يعرض الحجم قبل وبعد، والمساحة الموفّرة، ومؤشر جودة تقديري للمقارنة. مقدار تقليل الحجم يعتمد على المصدر.\n• خيارات SHANAB AI والتحويل إلى 60 FPS داخل الاستوديو الذكي.\n• تحسين اختيار الملفات والإلغاء وتنظيف الملفات المؤقتة، وإظهار دقة المصدر وفريماته.\n\nافتح زر التحديثات أعلى التطبيق لتنزيل النسخة. وبعد انتهاء التنزيل، احفظ عملك واختر إعادة التشغيل والتثبيت.",
-        "en": "The new update is now available inside the app.\n\n• Fixed 4K and compressed-file compatibility in Smart Studio.\n• Faster processing for compatible clips by avoiding unnecessary picture re-encoding. Speed depends on the clip, device and selected options.\n• A separate HandBrake section for reducing video size, with before/after sizes, space saved and estimated quality scores for comparison. Size reduction depends on the source.\n• SHANAB AI and 60 FPS conversion options in Smart Studio.\n• Improved file selection, cancellation and temporary-file cleanup, with source resolution and frame rate displayed.\n\nOpen the updates button at the top of the app to download the new version. Once downloaded, save your work and choose Restart and install."
+        "ar": "تحديث شنب 3.1.8\n\n• إصلاح توقف SHANAB AI عند الحفظ مع بعض مقاطع 60 FPS، مع الحفاظ على الإطارات والصوت.\n• تحسين توافق معالجة AI مع بيانات الألوان في بعض كروت الشاشة.\n• اقتراح HandBrake اختياري عندما يكون حجم المقطع ومعدل بياناته مرتفعين، مع زر لإضافة النسخة المضغوطة إلى الاستوديو الذكي بعد الحفظ.\n• نافذة واضحة وسط الشاشة للتحديثات القادمة بعد تثبيت هذه النسخة.\n\nاحفظ عملك قبل إعادة التشغيل والتثبيت. مفاتيح التفعيل الحالية تبقى كما هي.\n\nافتح زر التحديثات أعلى التطبيق لتنزيل النسخة، ثم احفظ عملك واختر إعادة التشغيل والتثبيت.",
+        "en": "SHANAB 3.1.8 update\n\n• Fixed SHANAB AI save failures with certain 60 FPS clips while preserving frames and audio.\n• Improved AI processing compatibility with color metadata from some graphics cards.\n• Added optional HandBrake recommendations for large, high-bitrate clips, with a button to open the saved compressed copy in Smart Studio.\n• Added a centered prompt for future updates after installing this version.\n\nSave your work before restarting and installing. Existing license keys remain valid.\n\nOpen the updates button at the top of the app to download the new version, then save your work and choose Restart and install."
       },
-      "startsAt": "2026-11-10T18:16:35.000Z",
+      "startsAt": "2026-11-11T17:56:24.189Z",
       "expiresAt": null
     }
   ]
