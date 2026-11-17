@@ -2,6 +2,21 @@
   "schemaVersion": 1,
   "announcements": [
     {
+      "id": "release-3.1.9-20261117",
+      "revision": 1,
+      "kind": "update",
+      "title": {
+        "ar": "تحديث شنب 3.1.9: إصلاحات الإنتاج وتوافق المقاطع",
+        "en": "SHANAB 3.1.9: production and compatibility fixes"
+      },
+      "body": {
+        "ar": "تحديث شنب 3.1.9 متاح الآن.\n\n• تحديث مسار SHANAB MAX مع الحفاظ على دعم HDR للمقاطع المتوافقة.\n• إصلاح مشكلة تجهيز المحرك وخطأ LZMA، مع إعادة المحاولة عند انقطاع التنزيل.\n• تحسين توافق ملفات MOV والصوت وناتج HandBrake مع الاستوديو الذكي.\n• إصلاح توقف بعض المقاطع ذات الفريمات الكسرية بعد المعالجة، وفحص توافق AI قبل الإنتاج.\n\nافتح زر التحديثات أعلى التطبيق لتنزيل النسخة، ثم احفظ عملك واختر إعادة التشغيل والتثبيت. مفاتيح التفعيل الحالية تبقى كما هي.",
+        "en": "SHANAB 3.1.9 is available.\n\n• Updated SHANAB MAX with HDR retained for compatible clips.\n• Fixed engine setup and LZMA extraction, with retry after interrupted downloads.\n• Improved MOV, audio and HandBrake-output compatibility in Smart Studio.\n• Fixed fractional-frame-rate processing failures and checks AI compatibility before production.\n\nOpen Updates at the top of the app, download the update, save your work and choose Restart and install. Existing license keys remain valid."
+      },
+      "startsAt": "2026-11-17T17:08:57.406Z",
+      "expiresAt": null
+    },
+    {
       "id": "release-3.1.8-20261111",
       "revision": 1,
       "kind": "update",
