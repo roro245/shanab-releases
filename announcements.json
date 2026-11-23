@@ -2,6 +2,21 @@
   "schemaVersion": 1,
   "announcements": [
     {
+      "id": "release-3.1.10-20261123",
+      "revision": 1,
+      "kind": "update",
+      "title": {
+        "ar": "تحديث شنب 3.1.10 لمسار كلاسيك",
+        "en": "Classic video processing in SHANAB 3.1.10"
+      },
+      "body": {
+        "ar": "يعتمد SHANAB MAX الآن مسار كلاسيك. يحافظ على توقيت الصورة، ويحتفظ بصوت المصدر المتوافق حتى آخر إطار صوتي.\n\nافتح «التحديثات» في أعلى الأداة واختر «تنزيل التحديث». بعد حفظ عملك، اختر «إعادة التشغيل والتثبيت».",
+        "en": "SHANAB MAX now uses Classic. It preserves video timing and keeps compatible source audio intact through the final audio frame.\n\nOpen Updates at the top of the app and choose Download update. Save your work, then choose Restart and install."
+      },
+      "startsAt": "2026-11-23T20:37:51.166Z",
+      "expiresAt": null
+    },
+    {
       "id": "release-3.1.9-20261117",
       "revision": 1,
       "kind": "update",
