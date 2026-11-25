@@ -2,21 +2,6 @@
   "schemaVersion": 1,
   "announcements": [
     {
-      "id": "release-3.1.11-20261125",
-      "revision": 1,
-      "kind": "update",
-      "title": {
-        "ar": "تم تحديث محرك الجودة",
-        "en": "Video quality engine updated"
-      },
-      "body": {
-        "ar": "تم تحديث محرك الجودة وإصلاح مشكلة في تجهيز الصوت وتوقيته في بعض المقاطع. نعتذر لكم عن التقطيع اللي واجه بعضكم مع الإصدار السابق، ونشكركم على تنبيهنا. بعد التحديث، أعد إنتاج المقطع من ملفه الأصلي للاستفادة من الإصلاح.",
-        "en": "We updated the video quality engine and fixed an issue with audio preparation and timing on some clips. We’re sorry for the playback interruptions some of you experienced. Thank you for reporting them. After updating, export your clip again from its original file to use the fix."
-      },
-      "startsAt": "2026-11-25T04:36:22.822Z",
-      "expiresAt": null
-    },
-    {
       "id": "release-3.1.10-20261123",
       "revision": 1,
       "kind": "update",
