@@ -2,16 +2,31 @@
   "schemaVersion": 1,
   "announcements": [
     {
+      "id": "release-3.1.11-20261125",
+      "revision": 1,
+      "kind": "update",
+      "title": {
+        "ar": "تم تحديث محرك الجودة",
+        "en": "Video quality engine updated"
+      },
+      "body": {
+        "ar": "تم تحديث محرك الجودة وإصلاح مشكلة في تجهيز الصوت وتوقيته في بعض المقاطع. نعتذر لكم عن التقطيع اللي واجه بعضكم مع الإصدار السابق، ونشكركم على تنبيهنا. بعد التحديث، أعد إنتاج المقطع من ملفه الأصلي للاستفادة من الإصلاح.",
+        "en": "We updated the video quality engine and fixed an issue with audio preparation and timing on some clips. We’re sorry for the playback interruptions some of you experienced. Thank you for reporting them. After updating, export your clip again from its original file to use the fix."
+      },
+      "startsAt": "2026-11-25T04:36:22.822Z",
+      "expiresAt": null
+    },
+    {
       "id": "release-3.1.10-20261123",
       "revision": 1,
       "kind": "update",
       "title": {
-        "ar": "تحديث شنب 3.1.10 لمسار كلاسيك",
-        "en": "Classic video processing in SHANAB 3.1.10"
+        "ar": "تحديث محرك الجودة في ويندوز 3.1.10",
+        "en": "Windows video quality engine update 3.1.10"
       },
       "body": {
-        "ar": "يعتمد SHANAB MAX الآن مسار كلاسيك. يحافظ على توقيت الصورة، ويحتفظ بصوت المصدر المتوافق حتى آخر إطار صوتي.\n\nافتح «التحديثات» في أعلى الأداة واختر «تنزيل التحديث». بعد حفظ عملك، اختر «إعادة التشغيل والتثبيت».",
-        "en": "SHANAB MAX now uses Classic. It preserves video timing and keeps compatible source audio intact through the final audio frame.\n\nOpen Updates at the top of the app and choose Download update. Save your work, then choose Restart and install."
+        "ar": "تحديث للاستوديو الذكي يحافظ على توقيت الصورة والصوت في المقاطع المتوافقة. افتح التحديثات داخل الأداة للحصول على أحدث إصدار.",
+        "en": "This Smart Studio update preserves picture and audio timing on compatible clips. Open Updates in the app to get the latest version."
       },
       "startsAt": "2026-11-23T20:37:51.166Z",
       "expiresAt": null
@@ -25,8 +40,8 @@
         "en": "SHANAB 3.1.9: production and compatibility fixes"
       },
       "body": {
-        "ar": "تحديث شنب 3.1.9 متاح الآن.\n\n• تحديث مسار SHANAB MAX مع الحفاظ على دعم HDR للمقاطع المتوافقة.\n• إصلاح مشكلة تجهيز المحرك وخطأ LZMA، مع إعادة المحاولة عند انقطاع التنزيل.\n• تحسين توافق ملفات MOV والصوت وناتج HandBrake مع الاستوديو الذكي.\n• إصلاح توقف بعض المقاطع ذات الفريمات الكسرية بعد المعالجة، وفحص توافق AI قبل الإنتاج.\n\nافتح زر التحديثات أعلى التطبيق لتنزيل النسخة، ثم احفظ عملك واختر إعادة التشغيل والتثبيت. مفاتيح التفعيل الحالية تبقى كما هي.",
-        "en": "SHANAB 3.1.9 is available.\n\n• Updated SHANAB MAX with HDR retained for compatible clips.\n• Fixed engine setup and LZMA extraction, with retry after interrupted downloads.\n• Improved MOV, audio and HandBrake-output compatibility in Smart Studio.\n• Fixed fractional-frame-rate processing failures and checks AI compatibility before production.\n\nOpen Updates at the top of the app, download the update, save your work and choose Restart and install. Existing license keys remain valid."
+        "ar": "تحديث شنب 3.1.9 متاح الآن.\n\n• تحديث محرك الجودة مع الحفاظ على دعم HDR للمقاطع المتوافقة.\n• إصلاح مشكلة تجهيز المحرك وخطأ LZMA، مع إعادة المحاولة عند انقطاع التنزيل.\n• تحسين توافق ملفات MOV والصوت وناتج HandBrake مع الاستوديو الذكي.\n• إصلاح توقف بعض المقاطع ذات الفريمات الكسرية بعد المعالجة، وفحص توافق AI قبل الإنتاج.\n\nافتح زر التحديثات أعلى التطبيق لتنزيل النسخة، ثم احفظ عملك واختر إعادة التشغيل والتثبيت. مفاتيح التفعيل الحالية تبقى كما هي.",
+        "en": "SHANAB 3.1.9 is available.\n\n• Updated the quality engine with HDR retained for compatible clips.\n• Fixed engine setup and LZMA extraction, with retry after interrupted downloads.\n• Improved MOV, audio and HandBrake-output compatibility in Smart Studio.\n• Fixed fractional-frame-rate processing failures and checks AI compatibility before production.\n\nOpen Updates at the top of the app, download the update, save your work and choose Restart and install. Existing license keys remain valid."
       },
       "startsAt": "2026-11-17T17:08:57.406Z",
       "expiresAt": null
