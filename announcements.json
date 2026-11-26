@@ -2,6 +2,21 @@
   "schemaVersion": 1,
   "announcements": [
     {
+      "id": "release-3.1.12-1080-20261126",
+      "revision": 1,
+      "kind": "update",
+      "title": {
+        "ar": "تحديث شنب لويندوز 3.1.12 – حل مؤقت لجودة الفيديو",
+        "en": "SHANAB for Windows 3.1.12 – Temporary video quality fix"
+      },
+      "body": {
+        "ar": "يتضمن تحديث ويندوز حلًا مؤقتًا للجودة. يجهّز شنب مقطعك بدقة تصل إلى 1080p إلى أن نصلح مشكلة 4K. نعتذر لكم عن المشكلة.\n\nتنبيه مهم عند الرفع إلى تيك توك\nاختر «أنا فقط» قبل نشر المقطع. بعد اكتمال النشر، افتح إعدادات خصوصية المقطع وغيّر «من يمكنه مشاهدة هذا الفيديو» إلى «الجميع».",
+        "en": "This Windows update adds a temporary quality fix. SHANAB exports your video at up to 1080p while we work on the 4K issue. We apologize for the disruption.\n\nImportant when posting to TikTok\nSelect “Only you” before posting. Once the post is live, open its privacy settings and change “Who can watch this video” to “Everyone”."
+      },
+      "startsAt": "2026-11-26T19:26:35.953Z",
+      "expiresAt": null
+    },
+    {
       "id": "release-3.1.11-20261125",
       "revision": 1,
       "kind": "update",
