@@ -2,6 +2,21 @@
   "schemaVersion": 1,
   "announcements": [
     {
+      "id": "windows-3.1.13-4k",
+      "revision": 1,
+      "kind": "update",
+      "title": {
+        "ar": "رجعت جودة 4K في شنب لويندوز",
+        "en": "4K export is back in SHANAB for Windows"
+      },
+      "body": {
+        "ar": "رجعت جودة 4K في شنب لويندوز. حدّث الأداة، ثم اختر مقطعك الأصلي واضغط «إنتاج 4K». نعتذر لكم عن التأخير، ونشكركم على صبركم.",
+        "en": "4K export is back in SHANAB for Windows. Update the app, choose your original video, and select “Produce 4K”. Thank you for your patience, and we apologize for the delay."
+      },
+      "startsAt": "2026-11-28T05:40:41.939Z",
+      "expiresAt": null
+    },
+    {
       "id": "release-3.1.12-1080-20261126",
       "revision": 1,
       "kind": "update",
@@ -14,7 +29,7 @@
         "en": "This Windows update adds a temporary quality fix. SHANAB exports your video at up to 1080p while we work on the 4K issue. We apologize for the disruption.\n\nImportant when posting to TikTok\nSelect “Only you” before posting. Once the post is live, open its privacy settings and change “Who can watch this video” to “Everyone”."
       },
       "startsAt": "2026-11-26T19:26:35.953Z",
-      "expiresAt": null
+      "expiresAt": "2026-11-28T05:40:41.939Z"
     },
     {
       "id": "release-3.1.11-20261125",
